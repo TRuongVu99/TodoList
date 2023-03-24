@@ -1,0 +1,15 @@
+export default {
+  RobotoRegular: 'Roboto-Regular',
+  RobotoItalic: 'Roboto-Italic',
+  RobotoBold: 'Roboto-Bold',
+  RobotoCondensedBoldItalic: 'RobotoCondensed-BoldItalic',
+  RobotoMedium: 'Roboto-Medium',
+  MontserratAlternatesMedium: 'MontserratAlternates-Medium',
+  MontserratAlternatesExtraBold: 'MontserratAlternates-ExtraBold',
+  MontserratAlternatesSemiBold: 'MontserratAlternates-SemiBold',
+  MontserratAlternatesRegular: 'MontserratAlternates-Regular',
+  PoppinsSemiBold: 'Poppins-SemiBold',
+  PoppinsBlack: 'Poppins-Black',
+  PoppinsMedium: 'Poppins-Medium',
+  PoppinsMediumItalic: 'Poppins-MediumItalic',
+};
