@@ -1,0 +1,245 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Julee-Regular.ttf",
+      "sha1": "414c9bf8036d576d7a805fdcdcf122b980a59f80"
+    },
+    {
+      "path": "assets/fonts/Linotte-Bold.ttf",
+      "sha1": "941d779ac7706a0e2b4b558945c5a6fcf96c6448"
+    },
+    {
+      "path": "assets/fonts/Linotte-Heavy.ttf",
+      "sha1": "5a901bef5d3ee6cf951a6d8bc102157744c20cf4"
+    },
+    {
+      "path": "assets/fonts/Linotte-Light.ttf",
+      "sha1": "9663d2e609db61083ffac0c8152e430aa5d6a817"
+    },
+    {
+      "path": "assets/fonts/Linotte-Regular.ttf",
+      "sha1": "bc3edb368c9e9c4db06b8890db073f6420836206"
+    },
+    {
+      "path": "assets/fonts/Linotte-Semi-Bold.ttf",
+      "sha1": "ec05192b0309806880cbeca92aaf3a9e76392257"
+    },
+    {
+      "path": "assets/fonts/MontserratAlternates-Black.ttf",
+      "sha1": "ddfe711ee7b948f4105986d363e00f98b192d52c"
+    },
+    {
+      "path": "assets/fonts/MontserratAlternates-BlackItalic.ttf",
+      "sha1": "6c03044cff6de8cdaee7b6b72e813d89bd6956c0"
+    },
+    {
+      "path": "assets/fonts/MontserratAlternates-Bold.ttf",
+      "sha1": "ee2c78fd0af8aa895f15a93f9a61e13a960c17f3"
+    },
+    {
+      "path": "assets/fonts/MontserratAlternates-BoldItalic.ttf",
+      "sha1": "223d7b6ffc3c26a99640ea23460b742d06411f9a"
+    },
+    {
+      "path": "assets/fonts/MontserratAlternates-ExtraBold.ttf",
+      "sha1": "32205c8b0a267729906dc0c882f03ff1446dcdcd"
+    },
+    {
+      "path": "assets/fonts/MontserratAlternates-ExtraBoldItalic.ttf",
+      "sha1": "69ba4465090cd6ca1ca9f1b62af89b5b7c9784ee"
+    },
+    {
+      "path": "assets/fonts/MontserratAlternates-ExtraLight.ttf",
+      "sha1": "ad57c72e2396ead44ed2db16f018660940c485d4"
+    },
+    {
+      "path": "assets/fonts/MontserratAlternates-ExtraLightItalic.ttf",
+      "sha1": "c125edb45285332b2e8c6d5d569935f51d466795"
+    },
+    {
+      "path": "assets/fonts/MontserratAlternates-Italic.ttf",
+      "sha1": "43e946c7c4e058d8bd0fa069dfa2476a6b5ecafb"
+    },
+    {
+      "path": "assets/fonts/MontserratAlternates-Light.ttf",
+      "sha1": "677d838a15330306307e79ef50f838c608102c56"
+    },
+    {
+      "path": "assets/fonts/MontserratAlternates-LightItalic.ttf",
+      "sha1": "b7ee5e13bc710e11b76ad2ee67b663e75cf687be"
+    },
+    {
+      "path": "assets/fonts/MontserratAlternates-Medium.ttf",
+      "sha1": "f3c1c9e778680061c35ec512c918f1a630868872"
+    },
+    {
+      "path": "assets/fonts/MontserratAlternates-MediumItalic.ttf",
+      "sha1": "55d5b5694687275ef1ba9fff3d9de61056ac9789"
+    },
+    {
+      "path": "assets/fonts/MontserratAlternates-Regular.ttf",
+      "sha1": "8a441a013bb65edb42d747efc85caba6d4149464"
+    },
+    {
+      "path": "assets/fonts/MontserratAlternates-SemiBold.ttf",
+      "sha1": "6127c80406ce668cd1d623c40e79a62de3f5d2e0"
+    },
+    {
+      "path": "assets/fonts/MontserratAlternates-SemiBoldItalic.ttf",
+      "sha1": "31d3f673326f3bbe925002b0a4d87e19896a5a6a"
+    },
+    {
+      "path": "assets/fonts/MontserratAlternates-Thin.ttf",
+      "sha1": "b54b998a0b11a533084557908847be001e42c534"
+    },
+    {
+      "path": "assets/fonts/MontserratAlternates-ThinItalic.ttf",
+      "sha1": "22ec6c366daf605e72b568213be3e827832685ae"
+    },
+    {
+      "path": "assets/fonts/Poppins-Black.ttf",
+      "sha1": "645e04c53c6b5b35bce654a811ebce16af8aa721"
+    },
+    {
+      "path": "assets/fonts/Poppins-BlackItalic.ttf",
+      "sha1": "be4ef2aac7775a4b0179c0ecfce6cea8f7783f63"
+    },
+    {
+      "path": "assets/fonts/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "assets/fonts/Poppins-BoldItalic.ttf",
+      "sha1": "6de8952ca08d27ee77f57347d2cef4b4e26aa78f"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraBold.ttf",
+      "sha1": "4b5c0750f073abd576413a0898d3b95adaf199c8"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraBoldItalic.ttf",
+      "sha1": "94d3ee3acdbd00e37a715a25f2b5237666b5b8a3"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraLight.ttf",
+      "sha1": "85af6582a7e6155917c605f9d3fed68c02b23b06"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraLightItalic.ttf",
+      "sha1": "6fa0418f91032680d2d8fe4843009f2c80faa61d"
+    },
+    {
+      "path": "assets/fonts/Poppins-Italic.ttf",
+      "sha1": "e2bfcd56016c3c915221ef1c5fc1a17b0776eb91"
+    },
+    {
+      "path": "assets/fonts/Poppins-Light.ttf",
+      "sha1": "e247a92158e112f8bf7b638c8d95381d66b00dbb"
+    },
+    {
+      "path": "assets/fonts/Poppins-LightItalic.ttf",
+      "sha1": "f76102b361e705751a83b7b22fe954daf1f27dd4"
+    },
+    {
+      "path": "assets/fonts/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "assets/fonts/Poppins-MediumItalic.ttf",
+      "sha1": "b592c62fdf88c40cfd0f031bba6423b1d4430472"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "assets/fonts/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    },
+    {
+      "path": "assets/fonts/Poppins-SemiBoldItalic.ttf",
+      "sha1": "0c8bed0a5942b2388d36b11c115685d9f01700b0"
+    },
+    {
+      "path": "assets/fonts/Poppins-Thin.ttf",
+      "sha1": "09ba4dcd5509c8085bf88c665dcc51cbdfced27b"
+    },
+    {
+      "path": "assets/fonts/Poppins-ThinItalic.ttf",
+      "sha1": "fb8fccca21550e71135f92bbaf8a2e8a12c90465"
+    },
+    {
+      "path": "assets/fonts/Roboto-Black.ttf",
+      "sha1": "637af480bd6556d6588f6bdff318abc9b89b08ed"
+    },
+    {
+      "path": "assets/fonts/Roboto-BlackItalic.ttf",
+      "sha1": "2918d17d12debe9499d85d3444831258b2fddfbf"
+    },
+    {
+      "path": "assets/fonts/Roboto-Bold.ttf",
+      "sha1": "47327df0f35e7cd7c8645874897a7449697544ae"
+    },
+    {
+      "path": "assets/fonts/Roboto-BoldItalic.ttf",
+      "sha1": "00a00578822cb025d90f61c80a44fd3360d50f9b"
+    },
+    {
+      "path": "assets/fonts/Roboto-Italic.ttf",
+      "sha1": "493e74f72fac5d61e8dfc9bb1ff0a278ee584750"
+    },
+    {
+      "path": "assets/fonts/Roboto-Light.ttf",
+      "sha1": "e321c183e2b75ee19813892b7bac8d7c411cb88a"
+    },
+    {
+      "path": "assets/fonts/Roboto-LightItalic.ttf",
+      "sha1": "beb0dd1a6dc2132fd8d9b4fb35a96087bb2ea5bc"
+    },
+    {
+      "path": "assets/fonts/Roboto-Medium.ttf",
+      "sha1": "6060ca726b9760b76f7c347dce9d2fa1fe42ec92"
+    },
+    {
+      "path": "assets/fonts/Roboto-MediumItalic.ttf",
+      "sha1": "5220126077d2c80a839ca892d0c3a0cbdbd35be5"
+    },
+    {
+      "path": "assets/fonts/Roboto-Regular.ttf",
+      "sha1": "824b5480c977a8166e177e5357d13164ccc45f47"
+    },
+    {
+      "path": "assets/fonts/Roboto-Thin.ttf",
+      "sha1": "173ed64528b4d010a76d8d38deb1d7e7eed58eda"
+    },
+    {
+      "path": "assets/fonts/Roboto-ThinItalic.ttf",
+      "sha1": "7184b30f3aa8989e4b1e2fdfbe9d8265de3053cc"
+    },
+    {
+      "path": "assets/fonts/RobotoCondensed-Bold.ttf",
+      "sha1": "1f10cda1ee307775efab6484a7c8c5c40b56f245"
+    },
+    {
+      "path": "assets/fonts/RobotoCondensed-BoldItalic.ttf",
+      "sha1": "756973c07fc872a896d129f1ff3c6962e7a6ae7f"
+    },
+    {
+      "path": "assets/fonts/RobotoCondensed-Italic.ttf",
+      "sha1": "398d3740ef593b4c68e2ee555827879b16ba2add"
+    },
+    {
+      "path": "assets/fonts/RobotoCondensed-Light.ttf",
+      "sha1": "3dfac3e16a83959cdfb6c8d8bad85126b75d990b"
+    },
+    {
+      "path": "assets/fonts/RobotoCondensed-LightItalic.ttf",
+      "sha1": "28c878e359fc0724a3c750387a073d1f83085e8f"
+    },
+    {
+      "path": "assets/fonts/RobotoCondensed-Regular.ttf",
+      "sha1": "f4742e15c489d5c491ce9a0f06461c797227b42b"
+    }
+  ]
+}
